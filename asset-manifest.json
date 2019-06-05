@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/lmiller1990/flux-entities-react-demo/static/js/main.e5db2953.chunk.js",
+    "main.js.map": "/lmiller1990/flux-entities-react-demo/static/js/main.e5db2953.chunk.js.map",
+    "runtime~main.js": "/lmiller1990/flux-entities-react-demo/static/js/runtime~main.53f65466.js",
+    "runtime~main.js.map": "/lmiller1990/flux-entities-react-demo/static/js/runtime~main.53f65466.js.map",
+    "static/js/2.798a4a49.chunk.js": "/lmiller1990/flux-entities-react-demo/static/js/2.798a4a49.chunk.js",
+    "static/js/2.798a4a49.chunk.js.map": "/lmiller1990/flux-entities-react-demo/static/js/2.798a4a49.chunk.js.map",
+    "index.html": "/lmiller1990/flux-entities-react-demo/index.html",
+    "precache-manifest.ddae8fc7097943f9704116fe2303ffa4.js": "/lmiller1990/flux-entities-react-demo/precache-manifest.ddae8fc7097943f9704116fe2303ffa4.js",
+    "service-worker.js": "/lmiller1990/flux-entities-react-demo/service-worker.js"
+  }
+}
