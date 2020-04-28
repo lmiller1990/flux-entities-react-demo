@@ -1,9 +1,9 @@
-import { IAjaxState } from 'flux-entities'
+import { AjaxBaseState } from 'flux-entities'
 
 import { IUser } from './types'
 import { TUserAction } from './actions'
 
-export interface IUsersState extends IAjaxState<IUser> {}
+export interface IUsersState extends AjaxBaseState<IUser> {}
 
 const initialState: IUsersState = {
   ids: [],

@@ -4454,10 +4454,10 @@ flush-write-stream@^1.0.0:
     inherits "^2.0.3"
     readable-stream "^2.3.6"
 
-flux-entities@0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/flux-entities/-/flux-entities-0.0.4.tgz#c79e07d7ffffa201ee6bda95b9ba74ed55f2d694"
-  integrity sha512-i1q8CNBJ2LJbJ3hW6VG7TS36hqer0/8GPa0jviJrPOQS1RrNSWoR10M9DGElISACaa73OBZCKBKlJ+1KhTkL6w==
+flux-entities@^0.0.21:
+  version "0.0.21"
+  resolved "https://registry.yarnpkg.com/flux-entities/-/flux-entities-0.0.21.tgz#69a3446cea57cded656a3cfecc3d78605c844c02"
+  integrity sha512-6wwxImQrW7rT+lQ9OaLAKDaQ/wMQqsO+tzGZBGlUxhtgG3OSAXAnDG/vQrUdp6uSymHBtthG9hlTnnuvALznYA==
 
 follow-redirects@1.5.10:
   version "1.5.10"
